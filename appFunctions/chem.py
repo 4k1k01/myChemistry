@@ -48,7 +48,7 @@ def amount_of_substance():
     mw1 = float(input()) #Zadejte molarni hmotnost latky
 
     n = m1/mw1 
-    return n #Výsledek je v molech jen pokud byla yadana hodnota v gramech
+    return n #Výsledek je v molech jen pokud byla zadana hodnota v gramech
 
 
 # Calling all necessary functions and calculating the amount of substance and volume
